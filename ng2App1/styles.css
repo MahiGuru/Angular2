@@ -1,0 +1,25 @@
+h1 {
+  color: #369;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 250%;
+}
+body {
+  margin:0 10em;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+  width:800px;
+  margin:0 auto;
+}
+ /*
+  * See https://github.com/angular/angular.io/blob/master/public/docs/_examples/styles.css
+  * for the full set of master styles used by the documentation samples
+  */
+.completed{
+  text-decoration: line-through;
+  color:grey;
+}
+.started{
+  color: #000;
+}
